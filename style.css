@@ -30,3 +30,16 @@ body{
     transform: translate(-50%, -50%);
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
 }
+
+i {
+    color: #EB4D4D;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 32px;
+    line-height: 1;
+    margin-top: -4px;
+    vertical-align: text-top;
+    transition: margin 0.3s;
+}
+
+.btn-start {top: 475px;}
